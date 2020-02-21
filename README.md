@@ -15,4 +15,9 @@ This project is organized into 4 Jupyter Notebooks:
 Installation
 ---
 
-  * Install the Python requirements with `pip install -r requirements.txt`.
+Assuming that Python 3, Jupyter Notebook and virtualenv are already installed:
+
+  * Clone the FoursquareTokyo repo.
+  * Navigate to the FoursquareTokyo directory and run venv: `python3 -m venv env`
+  * Activate the virtual environment: `source env/bin/activate`
+  * Install the Python requirements: `pip install -r requirements.txt`
