@@ -5,7 +5,7 @@ Given a [data set](https://www.kaggle.com/chetanism/foursquare-nyc-and-tokyo-che
 
 Using Logistic Regression, a test accuracy of 86% is achieved.
 
-This project is divided among 4 Jupyter Notebooks:
+This project is organized into 4 Jupyter Notebooks:
 
 * [01_datawrangling.ipynb](https://github.com/kevinlimk/FoursquareTokyo/blob/master/01_datawrangling.ipynb) - Data cleaning to introduce datetime index and encode venue as a numeric feature. 
 * [02_eda.ipynb](https://github.com/kevinlimk/FoursquareTokyo/blob/master/02_eda.ipynb) - Exploratory data analysis to examine the temporal and spatial patterns of check-ins among all users and for specific users.
