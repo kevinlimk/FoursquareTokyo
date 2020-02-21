@@ -9,7 +9,7 @@ This project is organized into 4 Jupyter Notebooks:
 
 * [01_datawrangling.ipynb](https://github.com/kevinlimk/FoursquareTokyo/blob/master/01_datawrangling.ipynb) - Data cleaning to introduce datetime index and encode venue as a numeric feature. 
 * [02_eda.ipynb](https://github.com/kevinlimk/FoursquareTokyo/blob/master/02_eda.ipynb) - Exploratory data analysis to examine the temporal and spatial patterns of check-ins among all users and for specific users.
-* [03_featureengineering.ipynb](https://github.com/kevinlimk/FoursquareTokyo/blob/master/03_featureengineering.ipynb) - Exploratory data analysis to examine the temporal and spatial patterns of check-ins among all users and for specific users.
+* [03_featureengineering.ipynb](https://github.com/kevinlimk/FoursquareTokyo/blob/master/03_featureengineering.ipynb) - Feature engineering to construct features based on past check-in history.
 * [04_machinelearning.ipynb](https://github.com/kevinlimk/FoursquareTokyo/blob/master/04_machinelearning.ipynb) - Multiclass classification to predict check-in venue class for the month of February 2013.
   
 Installation
