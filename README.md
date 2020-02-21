@@ -15,5 +15,4 @@ This project is organized into 4 Jupyter Notebooks:
 Installation
 ---
 
-  * Install Jupyter Notebook using Anaconda.
   * Install the Python requirements with `pip install -r requirements.txt`.
