@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 matplotlib==3.1.3
 numpy==1.18.1
 pandas==1.0.1
 scikit-learn==0.22.1
 seaborn==0.10.0
-=======
-matplotlib==2.0.2
-numpy==1.12.1
-pandas==0.20.1
-scikit-learn==0.19.1
-seaborn==0.7.1
->>>>>>> 5ea5294c8c2f76fb6dc177cf49822f21f854d7a9
