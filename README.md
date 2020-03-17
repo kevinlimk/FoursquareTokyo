@@ -3,7 +3,7 @@ FoursquareTokyo
 
 Given a [data set](https://www.kaggle.com/chetanism/foursquare-nyc-and-tokyo-checkin-dataset#dataset_TSMC2014_TKY.csv) of 573,703 check-ins of Foursquare users in Tokyo, Japan between April 2012 to February 2013, this project aims to predict a user's check-in venue class from among 247 classes given the current time, the user's GPS location, and the user's previous check-in history.
 
-Using Logistic Regression, a test accuracy of 86% is achieved.
+Using Logistic Regression, a test accuracy of 85% is achieved.
 
 This project is organized into 4 Jupyter Notebooks:
 
