@@ -15,7 +15,7 @@ This project is organized into 4 Jupyter Notebooks:
 Installation
 ---
 
-Assuming that Python 3 and Jupyter Notebook are already installed:
+Assuming that Python 3 is already installed:
 
   * Clone the FoursquareTokyo repo.
   * Navigate to the FoursquareTokyo directory and run venv: `python3 -m venv env`
